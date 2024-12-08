@@ -4,7 +4,7 @@ Retrospektiivi on projektin tai iteraation lopuksi käytävä kokous, jossa kehi
 
 ## Erilaisia käytänteitä
 
-### Start, Stop, Continue, More of, Less of
+### Start, Stop, Continue, More of, Less of Wheel
 
 Tässä toimintatavassa tiimi pyrkii keskustelemaan työskentelystään viiden yksinkertaisen kysymyksen pohjalta. Tapaamisen vetäjä piirtää ympyrän posterille ja jakaa sen viiteen eri osa-alueeseen. Osa-alueet koostuvat otsikossa mainituista aiheista. Kehittäjätiimi pyrkii keskustelemaan toisten antamista kommenteista ja vetäjä kategorisoi ne kyseisiin osa-alueisiin.
 
