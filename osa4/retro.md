@@ -10,6 +10,6 @@ Tässä toimintatavassa tiimi pyrkii keskustelemaan työskentelystään viiden y
 
 ### Glad, Sad, Mad
 
-Jokainen tiimiläinen kirjaa ylös havaintojaan esimerkiksi post-it- lapuille ja ne kategorisoidaan otsikon aiheiden mukaan yhteiselle taululle. Yksi henkilö suorittaa *havaintojen* ryhmittämisen, niin että samanlaiset havainnot asetetaan lähekkäin.
+Jokainen tiimiläinen kirjaa ylös havaintojaan esimerkiksi post-it- lapuille ja ne kategorisoidaan otsikon aiheiden mukaan yhteiselle taululle. Yksi henkilö suorittaa havaintojen ryhmittämisen, niin että samanlaiset havainnot asetetaan lähekkäin.
 
 Tiimiläiset äänestävät havainnoista, joista he haluaisivat keskustella eniten. Tässä on tyypillisesti rajana esimerkiksi viisi ääntä per henkilö. Äänestyksen jälkeen retrospektiivin vetäjä aloittaa keskustelun eniten ääniä saaneesta havainnosta. Keskustelun tulisi painottua tekoihin, joita voidaan toteuttaa seuraavassa sprintissä.
